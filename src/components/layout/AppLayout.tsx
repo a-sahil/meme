@@ -3,7 +3,7 @@
 
 import React, { useEffect } from 'react'
 import { usePathname, useRouter } from 'next/navigation'
-import { Home, Compass , Icon, Settings, User } from 'lucide-react'
+import { Home, Compass , Settings, User } from 'lucide-react'
 //import { initTelegramApp } from '@/config/telegram'
 
 interface AppLayoutProps {

@@ -3,7 +3,7 @@
 
 import React, { useState } from 'react';
 import { useDropzone } from 'react-dropzone';
-import { Loader2, Image as ImageIcon, Lightbulb, Crown } from 'lucide-react';
+import { Image as ImageIcon, Lightbulb, Crown } from 'lucide-react';
 import { useRouter } from 'next/navigation';
 import Button from '@/components/ui/Button';
 import AspectRatioSelector from '@/components/ui/AspectRatioSelector';

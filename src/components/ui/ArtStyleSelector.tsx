@@ -1,7 +1,7 @@
 // src/components/ui/ArtStyleSelector.tsx
 import React from 'react';
 import Image from 'next/image';
-import { CONFIG } from '@/config/telegram';
+// import { CONFIG } from '@/config/telegram';
 
 interface ArtStyleSelectorProps {
   value: string;
